@@ -10,6 +10,7 @@
 
   blog https://www.arolla.fr/blog/author/dorra-bartaguiz/
   
+  we are hiring https://cooptation.hellotrusty.io/wntfvlanr0
 
 <!---
 iAmDorra/iAmDorra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
