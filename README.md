@@ -7,8 +7,6 @@
   twitter https://twitter.com/DorraBartaguiz
 
   linkedIn https://www.linkedin.com/in/%F0%9F%92%8Edorra-bartaguiz-457b5315/
-
-  blog https://www.arolla.fr/blog/author/dorra-bartaguiz/
   
   we are hiring https://cooptation.hellotrusty.io/wntfvlanr0
 
