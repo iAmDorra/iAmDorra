@@ -32,7 +32,7 @@
 -  ✨ Améliorer l'implémentation du feature flip pour réussir à avoir du flow
 -  ✨ BDD entre exploration et automatisation
 
-  Et ceux en binôme avec des personnes d'AROLLA ou d'ailleurs, c'est pareil
+  Et ceux en binôme avec des personnes d'AROLLA ou d'ailleurs
 -  ✨ Rendons le DDD aux devs, avec Arnaud Thiefaine
 -  ✨ Ré-arcitecturer vos traitements batch avec DDD, avec Cyrille Martraire
 -  ✨ Property based testing, avec Romeu Moura
