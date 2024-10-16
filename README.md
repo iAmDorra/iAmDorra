@@ -10,7 +10,10 @@
   
   we are hiring https://cooptation.hellotrusty.io/wntfvlanr0
 
-  My talks :
+
+My talks :
+
+
   In english
 -  ✨ Slim down diet & TDD
 -  ✨ Devs, let's reclaim DDD with Arnaud Thiefaine
