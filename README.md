@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on any subject
 - 📫 How to reach me:
 
-  twitter https://twitter.com/DorraBartaguiz
-
   linkedIn https://www.linkedin.com/in/%F0%9F%92%8Edorra-bartaguiz-457b5315/
   
   we are hiring https://www.linkedin.com/company/494940/admin/posted-jobs/open/
