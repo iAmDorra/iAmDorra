@@ -8,7 +8,7 @@
 
   linkedIn https://www.linkedin.com/in/%F0%9F%92%8Edorra-bartaguiz-457b5315/
   
-  we are hiring https://cooptation.hellotrusty.io/wntfvlanr0
+  we are hiring https://www.linkedin.com/company/494940/admin/posted-jobs/open/
 
 Je suis CTO d'Arolla, co-auteure du livre Software Craft (édition Dunod). Je suis passionnée par le développement et les bonnes pratiques. Je partage mon savoir-faire en publiant des articles et en animant des conférences et meetups. J'accompagne des équipes pour monter en compétence sur le craft. 
 J'ai aussi enseigné dans une école d'ingénieurs à Paris.
