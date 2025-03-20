@@ -13,6 +13,7 @@ J'ai aussi enseigné dans une école d'ingénieurs à Paris.
 Retrouvez mes sujets ici :
 
 My talks :
+https://sessionize.com/dorra-bartaguiz/
 
   In english
 -  ✨ Slim down diet & TDD
